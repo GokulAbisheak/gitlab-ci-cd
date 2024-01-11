@@ -24,7 +24,7 @@
 
 Keyword              | Description
 ---------------------|-----------------------------------------------------------
-`after_script`         | Override a set of commands that are executed after `the job.
+`after_script`         | Override a set of commands that are executed after the job.
 `allow_failure `       | Allow the job to fail. A failed job does not cause the pipeline to fail.
 `artifacts`            | List of files and directories to attach to a job on success.
 `before_script`        | Override a set of commands that are executed before the job.
